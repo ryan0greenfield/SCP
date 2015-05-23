@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="/Icon">
+    <file>Resources/MachineBMP.bmp</file>
+    <file>Resources/SQ.png</file>
+    <file>Resources/sqlogo1.ico</file>
+    <file>clearance.cpp</file>
+    <file>clearance.h</file>
+    <file>ForIcon.h</file>
+    <file>LinePrinter.cpp</file>
+    <file>LinePrinter.h</file>
+    <file>main.cpp</file>
+    <file>mainwindow.cpp</file>
+    <file>mainwindow.h</file>
+    <file>resource.h</file>
+    <file>scpbpsc1.cpp</file>
+    <file>scpbpsc1.h</file>
+    <file>stdafx.cpp</file>
+    <file>stdafx.h</file>
+    <file>USBInterface.h</file>
+  </qresource>
+  <qresource/>
+</RCC>
